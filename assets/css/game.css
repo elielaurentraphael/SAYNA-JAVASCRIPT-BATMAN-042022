@@ -1,0 +1,49 @@
+#headg {
+    background-image: url("/assets/Illustrations/Game/Batgame1.png");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    height: 800px;
+}
+
+.row {
+    width: 86%;
+}
+
+#div {
+    padding-top: 15%;
+    padding-left: 7%;
+}
+
+
+/*scroll*/
+
+.scroi {
+    width: 15%;
+    margin-left: 92%;
+    margin-top: -100px;
+}
+
+
+/*Raccord*/
+
+.div {
+    height: 23%;
+}
+
+#sizo {
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.check {
+    background-color: #C4C4C4;
+    padding: 1%;
+}
+
+.col1 {
+    margin-top: 2%;
+    padding-top: 2%;
+}
