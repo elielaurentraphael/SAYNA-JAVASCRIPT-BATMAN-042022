@@ -1,3 +1,8 @@
+@import url("https://fonts.google.com/share?selection.family=Montserrat%7CRajdhani:wght@400;500;600;700");
+body {
+    font-family: Rajdhani, sans-serif;
+}
+
 #head {
     background-image: url("/assets/Illustrations/Home/Bathome1.png");
     background-repeat: no-repeat;
