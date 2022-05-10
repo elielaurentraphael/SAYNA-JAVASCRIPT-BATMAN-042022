@@ -2,3 +2,24 @@
 body {
     font-family: Rajdhani, sans-serif;
 }
+
+#photo1 {
+    padding-top: 20px;
+    padding-right: 4.25%;
+    padding-bottom: 20px;
+    padding-left: 8.5%;
+}
+
+#photo2 {
+    padding-top: 20px;
+    padding-right: 4.25%;
+    padding-bottom: 20px;
+    padding-left: 4.25%;
+}
+
+#photo3 {
+    padding-top: 20px;
+    padding-right: 8.5%;
+    padding-bottom: 20px;
+    padding-left: 4.25%;
+}
