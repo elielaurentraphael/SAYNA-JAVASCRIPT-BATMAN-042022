@@ -42,17 +42,6 @@ button {
     margin-top: -100px;
 }
 
-#ovai {
-    height: 38vw;
-    background-color: blue;
-    background-image: url("/assets/Illustrations/Home/Batslider1.png");
-    background-size: cover;
-}
-
-#fivoy {
-    height: 38vw;
-}
-
 #four {
     padding-bottom: 7%;
 }
